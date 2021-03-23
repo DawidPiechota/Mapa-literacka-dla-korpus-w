@@ -1,1 +1,3 @@
-# Mapa literacka (geolokalizacja na podstawie danych z Liner-a) dla korpusów (wykorzystanie meta-informacji)
+# Analysis and visualization of the locations in literary texts.
+
+Documentation: [Documentation.pdf](Documentation.pdf)
